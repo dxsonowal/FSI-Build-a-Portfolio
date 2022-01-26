@@ -1,14 +1,17 @@
 div { 
-    background-color: aquamarine;
+    background-color: darkgrey;
     text-align: center;
-    color:brown;
     
 }
 img {
-    border-radius: 10px;
-    border-radius: 10px;
-    border-color: chartreuse;
+    
+    border-radius: 20px;
+    border-color:darkblue;
+    border-width: 30px;
 }
 h1 {
     color:brown;
+}
+h2{
+    color:darkred;
 }
